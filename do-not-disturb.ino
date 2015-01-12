@@ -2,21 +2,8 @@
 
 DO NOT DISTURB
 Chad Allen
-Jan 9 2015 by  
-
-Adapted from: 
-https://github.com/arduino/Arduino/tree/master/build/shared/examples/10.StarterKit/p11_CrystalBall
-
-"DO NOT DISTURB" adds functionality to the "Crytsal Ball"  
-Includes returning to a 'resting' state after a given interval using stopwatch.h library
-Also includes blinking cursor at resting state
-
-Parts required:
-220 ohm resistor
-10 kilohm resistor
-10 kilohm potentiometer
-16x2 LCD screen
-tilt switch
+Jan 9 2015 
+more info at: https://github.com/chadallen/do-not-disturb/blob/master/README.md
 
 */
 
