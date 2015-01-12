@@ -9,7 +9,7 @@ Jan 12 2015
 DESCRIPTION
 
 "DO NOT DISTURB" adds functionality to the "Crytsal Ball" project from official Arduino starter kit
-Includes returning to the display a 'resting' state after a given interval using stopwatch.h library
+Includes returning the display to a 'resting' state after a given interval using stopwatch.h library
 Also includes blinking cursor at resting state
 
 REQUIREMENTS
@@ -32,3 +32,5 @@ THANKS
 This sketch is based on: 
 
 https://github.com/arduino/Arduino/tree/master/build/shared/examples/10.StarterKit/p11_CrystalBall
+
+Schematic and Fritzing illustration included in Arduino Starter Kit book
